@@ -1,0 +1,33 @@
+{
+    "num_listings":"36",
+    "City":"Toronto",
+    "Neighbourhood":"Downtown",
+    "Area":"Moss Park",
+    "Listings":[    
+        {
+            "MLS_num":"C5467882",
+            "Price":"3,200",
+            "Address":"1007 - 219 Dundas  St E",
+            "Bedrooms":"3BD",
+            "Bathrooms":"2BA",
+            "Parking":"0 Parking",
+            "Size":"800-899 sqft",
+            "timeListed":"11 hours",
+            "Brokerage":"LIVING REALTY INC., BROKERAGE",
+            "timeScraped":"01/10/2022-00:13:38"
+         },
+         {
+            "MLS_num":"C5467667",
+            "Price":"2,400",
+            "Address":"2208 - 219 Dundas St E",
+            "Bedrooms":"1+1BD",
+            "Bathrooms":"1BA",
+            "Parking":"0 Parking",
+            "Size":"500-599 sqft",
+            "timeListed":"1 day",
+            "Brokerage":"LIVING REALTY INC., BROKERAGE",
+            "timeScraped":"01/10/2022-00:13:38"
+         }
+
+    ]
+}
